@@ -2,6 +2,7 @@
 This is a collection of Python scripts for pressure drop and heat transfer calculations for crossflow tube bundles for both inline and staggered configurations.
 
 Author: Jonah Haefner* and Lane Carasik^
+
 Contributing and previous work done by: Julien Clayton
 
 *Texas A&M University
